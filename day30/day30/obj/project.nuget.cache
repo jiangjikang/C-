@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6OG/xRZvWumB3vTaqMAgIfssGVWvBV8vFO1kLMgOdhEbK5C6tujMEpTHX7IswJ4o5YeTSz4HNavtk/R9X0uvwQ==",
+  "success": true,
+  "projectFilePath": "/Users/jiangjikang/VS/day30/day30/day30.csproj",
+  "expectedPackageFiles": [
+    "/Users/jiangjikang/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/jiangjikang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

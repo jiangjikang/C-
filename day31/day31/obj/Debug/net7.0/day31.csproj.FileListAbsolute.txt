@@ -1,0 +1,15 @@
+/Users/jiangjikang/VS/day31/day31/bin/Debug/net7.0/day31
+/Users/jiangjikang/VS/day31/day31/bin/Debug/net7.0/day31.deps.json
+/Users/jiangjikang/VS/day31/day31/bin/Debug/net7.0/day31.runtimeconfig.json
+/Users/jiangjikang/VS/day31/day31/bin/Debug/net7.0/day31.dll
+/Users/jiangjikang/VS/day31/day31/bin/Debug/net7.0/day31.pdb
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.csproj.AssemblyReference.cache
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.AssemblyInfoInputs.cache
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.AssemblyInfo.cs
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.csproj.CoreCompileInputs.cache
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.dll
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/refint/day31.dll
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.pdb
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/day31.genruntimeconfig.cache
+/Users/jiangjikang/VS/day31/day31/obj/Debug/net7.0/ref/day31.dll

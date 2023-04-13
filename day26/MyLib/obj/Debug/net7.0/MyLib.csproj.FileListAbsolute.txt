@@ -1,0 +1,12 @@
+/Users/jiangjikang/VS/day26/MyLib/bin/Debug/net7.0/MyLib.deps.json
+/Users/jiangjikang/VS/day26/MyLib/bin/Debug/net7.0/MyLib.dll
+/Users/jiangjikang/VS/day26/MyLib/bin/Debug/net7.0/MyLib.pdb
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.csproj.AssemblyReference.cache
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.AssemblyInfoInputs.cache
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.AssemblyInfo.cs
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.csproj.CoreCompileInputs.cache
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.dll
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/refint/MyLib.dll
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/MyLib.pdb
+/Users/jiangjikang/VS/day26/MyLib/obj/Debug/net7.0/ref/MyLib.dll
